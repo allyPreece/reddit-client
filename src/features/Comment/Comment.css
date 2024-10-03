@@ -1,0 +1,15 @@
+.comment {
+  box-shadow: inset 2px 0px 0px var(--lime);
+  padding: 0rem 1rem;
+}
+
+.comment-author {
+  margin: 0;
+  padding: 0;
+}
+.time{
+  font-style: italic;
+}
+p {
+  margin: 0.5rem 0rem 1rem 0rem
+}

@@ -1,0 +1,43 @@
+.reddit-card {
+  width: 70%;
+  background-color: white;
+  box-shadow: 2px 2px 10px darkgray;
+  margin: 1rem;
+  border-radius: 20px;
+  padding: 1rem;
+}
+
+.post-time {
+  margin: 1rem;
+}
+
+.thumbnail img {
+  height: 600px
+}
+
+.post-panel {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.button {
+  background-color: var(--dark-blue);
+  color: var(--grey);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+}
+.loading {
+  height: 100vh;
+  text-align: center;
+}
+.post-time{
+  font-style: italic;
+}
